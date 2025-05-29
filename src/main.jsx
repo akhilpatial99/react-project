@@ -9,7 +9,7 @@ import About from './component/About.jsx'
 import Login from './component/Login.jsx'
 import Card from './component/Card.jsx'
 import Contact from './component/Contact.jsx'
-import Register from './component/register.jsx'
+import Register from './component/Register.jsx'
 
 
 
