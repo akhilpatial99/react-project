@@ -1,0 +1,76 @@
+[
+  {
+    "name": "MARCO",
+    "id": "marco",
+    "img_url": "https://wallpaperaccess.com/full/18220848.jpg",
+    "rating": "9.8",
+    "description": "Marco is a 2024 Malayalam-language action thriller film starring Unni Mukundan in the lead role The adoptive son of the Adattu family, Marco, ",
+    "genre": ["Action,Thriller,voilance"],
+    "watch_url": "https://www.hotstar.com/in/movies/marco/1271406043/watch"
+  },
+  {
+    "name": "AAVESHAM",
+    "id": "aavesham",
+    "img_url": "https://wallpapercave.com/wp/wp13911647.jpg",
+    "rating": "8.7",
+    "description": "Aavesham (transl. Excitement) is a 2024 Indian Malayalam-language gangster action comedy film written and directed by Jithu Madhavan.",
+    "genre": ["Drama, Comady, funny"],
+    "watch_url": "https://www.hotstar.com/in/movies/aavesham/1271320425"
+  },
+  {
+    "name": "VIKRAM",
+    "id": "vikram",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7a0TISR_0AUSZztJfjy3TH9VTXXUetjq1bQ&s",
+    "rating": "8.2",
+    "description": "The film follows Vikram, the former commander of a black-ops squad's pilot batch, and his efforts to take down Sandhanam, the runner of a drug syndicate.",
+    "genre": ["Action,Adventure, Drama"],
+    "watch_url": "https://www.hotstar.com/in/movies/vikram/1260106598/watch"
+  },
+  {
+    "name": "KILL",
+    "id": "kill",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLyolkiBnVX2ktYgb4xG9ZSBnDO-OLVMlIA&s",
+    "rating": "8.3",
+    "description": "Kill is a 2023 Indian Hindi-language action thriller film written and directed by Nikhil Nagesh Bhat and produced by Dharma Productions.",
+    "genre": ["Action, Crime,Drama"],
+    "watch_url": "https://www.hotstar.com/in/movies/kill/1271326855"
+  },
+  {
+    "name": "SALAAR",
+    "id": "salaar",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGHyqRk053S6CvHwgC_VESQLSBykhxNRF1w&s",
+    "rating": "8.6",
+    "description": "The film follows the friendship between Deva (Prabhas), the exiled prince of Khansaar, and Varadha (Prithviraj Sukumaran), the current prince of Khansaar.",
+    "genre": ["Friendship, Drama, History"],
+    "watch_url": "https://www.hotstar.com/in/movies/salaar-part-1-ceasefire/1260170331"
+  },
+  {
+    "name": "Squid Game",
+    "id": "squid-game",
+    "img_url": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/676ce6d372b783001d0921e0.jpg",
+    "rating": "8.1",
+    "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+    "genre": ["Action", "Drama", "Mystery"],
+    "watch_url": "https://www.netflix.com/title/81040344"
+  },
+  {
+    "name": "LIGER",
+    "id": "liger",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUY0b-QPCZ9PIbGuJYvesG6rq99GIatv9-Dg&s",
+    "rating": "000.0",
+    "description": "The film stars Vijay Deverakonda in a dual role as father and son, the titular MMA fighter “Liger” with stammering problems alongside ",
+    "genre": ["Drama,Fight, Romance"],
+    "watch_url": "https://www.hotstar.com/in/movies/liger-saala-crossbreed/1260115642"
+  },
+  {
+    "name": "Queen of Tears",
+    "id": "queen-of-tears",
+    "img_url": "https://kenh14cdn.com/203336854389633024/2024/4/3/landscapeavatarcopy84628d194-063e-4345-8283-836f1c4c6268-1712112349695927661598-17121166634362061127817.jpg",
+    "rating": "TBD",
+    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn my name ---hjdj nation The film stars Vijay Deverakonda .",
+    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
+    "genre": ["Drama", "Romance"],
+    "watch_url": "https://www.netflix.com/in/title/81772728"
+  }
+]
